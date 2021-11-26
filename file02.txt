@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 ho scritto una altra riga in master
+=======
+Ho aggiunto una riga
+>>>>>>> 63b110074da71fdc87446605db88b7c157005108
